@@ -16,4 +16,4 @@ Fonts in OTF and TTF format can be downloaded from [GitHub Releases](../../relea
 
 ## Copyright and License
 
-Modified version of garamondNo8 (Copyright (URW)++, Copyright 2000 by (URW)++ Design and Development). Modifications are Copyright 2012 by Michael Sharpe (msharpe@ucsd.edu) and are subject to the Aladdin Free Public Licence. Modified kerning data was based initially on a package by Gael Garoquaux.
+Modified version of garamondNo8 (Copyright (URW)++, Copyright 2000 by (URW)++ Design and Development). Modifications are Copyright 2012 by Michael Sharpe (msharpe@ucsd.edu) and are subject to the Aladdin Free Public Licence. Modified kerning data was based initially on a package by Gael Garoquaux. Modified character mappings by Bruce S.C. Lu 2021–2022.
