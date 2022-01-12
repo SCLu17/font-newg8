@@ -12,7 +12,7 @@ Source: http://mirrors.ibiblio.org/CTAN/fonts/garamondx/doc/garamondx-doc.pdf
 
 ## Download
 
-Fonts in OTF and TTF format can be downloaded from [GitHub Releases](../../releases/tag/continuous).
+Fonts in TTF format can be downloaded from [GitHub Releases](../../releases).
 
 ## Copyright and License
 
