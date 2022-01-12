@@ -2,7 +2,7 @@ NewG8 is an open font family based on the original designs of Claude Garamond.
 
 ![](fox.png)
 
-This project makes available the font from http://mirrors.ibiblio.org/CTAN/fonts/garamondx/ in otf and ttf format. It is an improved version of GaramondNo8 by (URW)++.
+This project makes available the font from http://mirrors.ibiblio.org/CTAN/fonts/garamondx/ in TTF format. It is an improved version of GaramondNo8 by (URW)++.
 
 This fork modifies the fonts' character mappings and supports OpenType features, including standard ligatures (ff, fi, fl, fj, ffi, ffl, ffj), text figures, small capitals, superscript numerals, and a swash capital Q (under 'stylistic set 1'). There is otherwise no change to any of the glyphs' designs.
 
