@@ -7,7 +7,7 @@ The project is forked from probonopd’s TTF conversions. Additional modificatio
 - Tidied character mappings, introducing OpenType features (old-style figures, small capitals, f-ligatures).
 - Unified the package into four fonts.
 - Tidied kerning pairs.
-- Old-style figures are now the default since version 2.02. Lining figures remain available via OpenType features.
+- Old-style figures are now the default since version 2.01. Lining figures remain available via OpenType features.
 
 There is otherwise no change to the glyphs’ designs from 2017.
 
