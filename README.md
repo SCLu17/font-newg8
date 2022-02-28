@@ -24,4 +24,4 @@ Modified kerning data was based initially on a package by Gael Garoquaux.
 
 Modifications are Copyright 2012–2017 by Michael Sharpe (msharpe@ucsd.edu) and are subject to the Aladdin Free Public Licence.
 
-Modified character mappings by Bruce S.C. Lu 2021–2022.
+Further behind-the-scenes modifications by Bruce S.C. Lu 2021–2022.
