@@ -8,6 +8,7 @@ The project is forked from probonopd’s TTF conversions. Additional modificatio
 - Unified the package into four fonts.
 - Tidied kerning pairs.
 - Old-style figures are now the default since version 2.01. Lining figures remain available via OpenType features.
+- Addition of glyphs with diacritical marks.
 
 There is otherwise no change to the glyphs’ designs from 2017.
 
@@ -22,6 +23,4 @@ Modified version of garamondNo8 (Copyright (URW)++, Copyright 2000 by (URW)++ De
 
 Modified kerning data was based initially on a package by Gael Garoquaux.
 
-Modifications are Copyright 2012–2017 by Michael Sharpe (msharpe@ucsd.edu) and are subject to the Aladdin Free Public Licence.
-
-Further behind-the-scenes modifications by Bruce S.C. Lu 2021–2022.
+Modifications are Copyright 2012–2017 by Michael Sharpe (msharpe@ucsd.edu) and Copyright 2021–2022 Bruce S.C. Lu, and are subject to the Aladdin Free Public Licence.
