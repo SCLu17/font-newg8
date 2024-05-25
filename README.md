@@ -14,7 +14,7 @@ There is otherwise no change to the glyphs’ designs from 2017.
 
 ## Download
 
-Fonts in TTF format can be downloaded from [GitHub Releases](../../releases). The TTC release is recommended for Windows users.
+Fonts in TTF format can be downloaded from [GitHub Releases](../../releases).
 
 ## Copyright and License
 
